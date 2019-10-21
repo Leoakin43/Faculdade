@@ -1,0 +1,10 @@
+C:\Users\akira\source\repos\Data\Data\bin\Debug\Data.exe.config
+C:\Users\akira\source\repos\Data\Data\bin\Debug\Data.exe
+C:\Users\akira\source\repos\Data\Data\bin\Debug\Data.pdb
+C:\Users\akira\source\repos\Data\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akira\source\repos\Data\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akira\source\repos\Data\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\akira\source\repos\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\akira\source\repos\Data\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\akira\source\repos\Data\Data\obj\Debug\Data.exe
+C:\Users\akira\source\repos\Data\Data\obj\Debug\Data.pdb
